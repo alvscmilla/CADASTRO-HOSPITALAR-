@@ -1,6 +1,6 @@
 # Título do repositório🚀
 
-Um parágrafo da descrição do projeto vai aqui
+Este projeto consiste no desenvolvimento de um sistema para uma clínica, com o objetivo de automatizar o cadastro de pacientes e o cálculo do IMC (Índice de Massa Corporal). A aplicação permite registrar informações como nome, idade, peso e altura, realizando automaticamente o cálculo do IMC de forma precisa e eficiente. Além disso, o sistema possibilita a consulta, edição e exclusão dos dados cadastrados, reduzindo erros comuns do registro manual e facilitando o gerenciamento das informações dos pacientes durante as consultas.
 
 # 🔌Como fazer funcionar na sua máquina:
 
@@ -27,6 +27,8 @@ Um parágrafo da descrição do projeto vai aqui
 > SQLITE3
 > 
 > CustomTkinter
+>
+> Messagebox
 
 ## Versões:
 
