@@ -5,26 +5,35 @@ Um parágrafo da descrição do projeto vai aqui
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
-- Instale a biblioteca tal….
+- Instale a biblioteca CustomTkinter
 
 # 📋Pré-requisitos do sistema:
 
-> Exemplo
-> 
+- Sistema operacional: Windows, Linux ou macOS
+- Python 3.10 ou superior
+- Gerenciador de pacotes pip
 
 ## 🛠️Tecnologias utilizadas:
 
-> Editor de código
-Linguagens
-Bibliotecas
+- Editor de código:
+> VS Code (ou outro de sua preferência)  
+- Linguagens
+> Python
 > 
+> SQL
+- Bibliotecas
+> TKinter
+> 
+> SQLITE3
+> 
+> CustomTkinter
 
 ## Versões:
 
 > Python 3.10
-> 
+
 
 ## Autores:
 
-> Exemplo
+> Camilla Macedo Alves
 >
